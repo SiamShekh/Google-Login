@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854092692024",
+    "project_id": "login-v2-74e1b",
+    "storage_bucket": "login-v2-74e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854092692024:android:a19e53b2885c21a95004cd",
+        "android_client_info": {
+          "package_name": "com.siam.googlelogin_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMP6TcgIK6YHrw9HCvwdgKPr5D8gjDhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
